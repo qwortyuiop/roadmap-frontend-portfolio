@@ -1,0 +1,3 @@
+[submodule "semantic-cv-html"]
+	path = semantic-cv-html
+	url = https://github.com/qwortyuiop/semantic-cv-html
